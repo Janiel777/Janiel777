@@ -1,11 +1,20 @@
-### Hi there 👋
-
-
-**Janiel777/Janiel777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on how to prepare a good resume on github.
-- 🌱 I’m currently studying software engineering.
-- 👯 I’m looking to collaborate on projects and learn from them.
-- 💬 Ask me about ...
-- 📫 How to reach me: [janjannunez777@gmail.com]
-
+![This is me](https://www.foxigen.com/wp-content/uploads/2019/06/software-development-banner.jpg) 
+```javascript
+const KeepCoding = {
+     code: [
+        "BLOG TÉCNICO SOBRE DESARROLLO MOBILE",
+        "DESARROLLO WEB",
+        "BIG DATA &amp;
+        MACHINE LEARNING",
+        "DEVOPS",
+        "CIBERSEGURIDAD",
+        "BLOCKCHAIN"],
+      technologies: [ 
+        "Cursos Online",
+        "Webbinars",
+        "BootCamps",
+      ]
+   }, 
+   homePage: "https://www.foxigen.com/services/software-development/"
+};
+`````` 

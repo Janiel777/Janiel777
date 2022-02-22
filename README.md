@@ -2,18 +2,9 @@
 ```javascript
 const KeepCoding = {
      code: [
-        "BLOG TÉCNICO SOBRE DESARROLLO MOBILE",
-        "DESARROLLO WEB",
-        "BIG DATA &amp;
-        MACHINE LEARNING",
-        "DEVOPS",
-        "CIBERSEGURIDAD",
-        "BLOCKCHAIN"],
-      technologies: [ 
-        "Cursos Online",
-        "Webbinars",
-        "BootCamps",
+        " Estudiante de Universidad de Puerto Rico-Recinto de Mayagüez (RUM)"
       ]
+
    }, 
    homePage: "https://www.foxigen.com/services/software-development/"
 };
